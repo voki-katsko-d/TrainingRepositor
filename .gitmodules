@@ -1,0 +1,3 @@
+[submodule "SubmoduleFolder"]
+	path = SubmoduleFolder
+	url = https://github.com/voki-katsko-d/SubmoduleRepository
